@@ -1,6 +1,1 @@
-Python,Available
-Java,Available
-JAVA,Available
-C++ Programming,Available
-Cloud computing,Available
-Python DSA,Borrowed
+python ,Available
